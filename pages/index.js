@@ -40,7 +40,7 @@ export default function Home() {
         </Widget>
         <Footer />
       </QuizContainer>
-      <GitHubCorner projectUrl="https://github.com/thiagowaib" />
+      <GitHubCorner projectUrl="https://github.com/thiagowaib/aluraquiz" />
     </QuizBackground>
   );
 }

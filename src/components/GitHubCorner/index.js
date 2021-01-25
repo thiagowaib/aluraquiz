@@ -43,7 +43,6 @@ const SVGWrapper = styled.svg`
 
 // eslint-disable-next-line react/prop-types
 export default function GitHubCorner({ projectUrl }) {
-  console.log('Im in');
   return (
     <Wrapper>
       <a href={projectUrl} target="_blank" rel="noreferrer">
